@@ -1,0 +1,109 @@
+# Dependencies
+node_modules/
+.dart_tool/
+.packages
+.pub/
+
+# Build outputs
+build/
+dist/
+out/
+*.apk
+*.ipa
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+.temp/
+temp/
+tmp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+*.pem
+*.key
+secrets/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Docker
+docker-compose.override.yml
+
+# Flutter
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+
+# Next.js
+.next/
+
+# Android
+*.iml
+.gradle/
+local.properties
+*.hprof
+
+# iOS
+Pods/
+Podfile.lock
+*.xcworkspace
+!*.xcworkspace/contents.xcworkspacedata
+*.xcscheme
+*.xcscmblueprint
+*.xcuserdata
+DerivedData/
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+test-results/
+playwright-report/
