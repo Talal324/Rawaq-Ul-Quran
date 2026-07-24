@@ -44,7 +44,8 @@
     
     "socket.io-client": "^4.6.1",
     
-    "agora-react-webrtc": "^1.2.1",
+    "agora-rtc-react": "^2.3.2",
+    "@vercel/speed-insights": "^1.0.12",
     
     "lucide-react": "^0.321.0",
     
